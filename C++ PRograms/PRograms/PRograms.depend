@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\main.cpp
+	<iostream>
+
+1737676375 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\prg18.cpp
+	<iostream>
+
+1739253437 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\insertion.cpp
+	<iostream>
+
+1739254666 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\array_reverse.cpp
+	<iostream>
+
+1739255478 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\array_largest.cpp
+	<iostream>
+	<climits>
+
+1739335386 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\bubble.cpp
+	<iostream>
+
+1739336236 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\selection.cpp
+	<iostream>
+
+1739336984 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\quick.cpp
+	<iostream>
+
+1739337781 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\insertion_sort.cpp
+	<iostream>
+
+1739324789 source:c:\users\p15zz24s038007\desktop\c++ programs\programs\merge.cpp
+	<iostream>
+
